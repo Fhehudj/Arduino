@@ -62,7 +62,7 @@ Linux 32/64, and Linux ARM (like Raspberry Pi, BeagleBone, CubieBoard).
   Cloud9, Codeanywhere, Eclipse Che (Codenvy), Atom, CLion, Eclipse, Emacs, NetBeans, Qt Creator, Sublime Text, VIM, Visual Studio, and VSCode
 - [Project Examples](https://docs.platformio.org/en/latest/platforms/espressif8266.html?utm_source=arduino-esp8266#examples)
 
-### Building with make
+### Building with make 
 
 [makeEspArduino](https://github.com/plerup/makeEspArduino) is a generic makefile for any ESP8266 Arduino project.
 Using make instead of the Arduino IDE makes it easier to do automated and production builds.
